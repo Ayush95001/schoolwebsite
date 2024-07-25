@@ -17,7 +17,7 @@ const Gallery = () => {
         <div className="col">
           <div className="card" style={{ marginTop: "15px" }}>
             <div className="card-body p-0" style={{ height: "200px", overflow: 'hidden' }}> 
-              <img src={Img1} alt="Cultural Fest" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+              <img src={Img1}  style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
             </div>
           </div>
         </div>
@@ -26,7 +26,7 @@ const Gallery = () => {
         <div className="col">
           <div className="card" style={{ marginTop: "15px" }}>
             <div className="card-body p-0" style={{ height: "200px", overflow: 'hidden' }}> 
-              <img src={Img2} alt="Annual Sports Day" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+              <img src={Img2}  style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
             </div>
           </div>
         </div>
@@ -35,7 +35,7 @@ const Gallery = () => {
         <div className="col">
           <div className="card" style={{ marginTop: "15px" }}>
             <div className="card-body p-0" style={{ height: "200px", overflow: 'hidden' }}> 
-              <img src={Img3} alt="Science Exhibition" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+              <img src={Img3}  style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
             </div>
           </div>
         </div>
@@ -44,7 +44,7 @@ const Gallery = () => {
         <div className="col">
           <div className="card" style={{ marginTop: "15px" }}>
             <div className="card-body p-0" style={{ height: "200px", overflow: 'hidden' }}> 
-              <img src={Img4} alt="Image 4" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+              <img src={Img4} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
             </div>
           </div>
         </div>
@@ -53,7 +53,7 @@ const Gallery = () => {
         <div className="col">
           <div className="card" style={{ marginTop: "15px" }}>
             <div className="card-body p-0" style={{ height: "200px", overflow: 'hidden' }}> 
-              <img src={Img5} alt="Image 5" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+              <img src={Img5}  style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
             </div>
           </div>
         </div>

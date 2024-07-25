@@ -1,0 +1,45 @@
+.navbar-custom {
+  background-color:rgb(35, 10, 111); 
+  font-weight: bold ;
+  font-size: large;
+  color : white !important;
+  font-family: sans-serif;
+  box-shadow: 4px 6px 6px rgba(0, 0, 0, 0.2) ;
+  border-radius: 10px;
+  
+}
+.hr{
+  border-top: 3px solid black;
+  border: 20 px solid black;
+  margin: 10px 0;
+  box-shadow: 3px 6px 8px rgba(0, 0, 0, 0.2);
+
+}
+half-screen-height {
+  height: 50vh; 
+}
+
+.carousel-item img {
+  object-fit: cover; 
+}
+cr-cont{
+  font-family: sans-serif;
+  font-size: large;
+}
+.FacultyCard{
+  margin-top: 50px;
+  box-shadow: 8px 6px 6px rgba(0, 0, 0, 0.2) ;
+  background-color: rgb(35, 10, 111) !important;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color:white !important;
+  
+}
+.Std-div{
+  background-color: rgb(249, 247, 255) !important;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-top: 20px;
+}
+.common{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: xx-large;
+}

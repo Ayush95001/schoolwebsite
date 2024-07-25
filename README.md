@@ -1,0 +1,21 @@
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### 'npm install'
+ First run this in the Extracted folder it will install all the necessary dependency present in the package.json to run this project.
+
+### 'npm start' 
+Run this after installing the dependencies to run the project

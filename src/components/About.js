@@ -11,7 +11,7 @@ const About = ()=>{
     <div className="row row-cols-1 row-cols-md-3 g-4  cr-cont" style={{marginTop:"6px"}}>
       <div className="col">
         <div className="card">
-          <img src={Imagea} className="card-img-top"  />
+          <img src={Imagea} alt="" className="card-img-top"  />
           <div className="card-body">
             <h5 className="card-title"style={{fontFamily:"'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",fontSize:"x-large",textDecoration:"underline"}}>History</h5>
             <p className="card-text"style={{fontFamily:"'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",fontSize:"x-large"}}>
@@ -22,7 +22,7 @@ const About = ()=>{
       </div>
       <div className="col">
         <div className="card">
-          <img src={Imageb} className="card-img-top"  />
+          <img src={Imageb} alt="" className="card-img-top"  />
           <div className="card-body">
             <h5 className="card-title"style={{fontFamily:"'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",fontSize:"x-large",textDecoration:"underline"}}>Vision</h5>
             <p className="card-text"style={{fontFamily:"'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",fontSize:"x-large"}}>
@@ -33,7 +33,7 @@ const About = ()=>{
       </div>
       <div className="col">
         <div className="card">
-          <img src={Imagec} className="card-img-top"  />
+          <img src={Imagec} alt="" className="card-img-top"  />
           <div className="card-body">
             <h5 className="card-title"style={{fontFamily:"'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",fontSize:"x-large",textDecoration:"underline"}}>Mission</h5>
             <p className="card-text"style={{fontFamily:"'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",fontSize:"x-large"}}>
@@ -44,7 +44,7 @@ const About = ()=>{
       </div>
       <div className="col">
         <div className="card">
-          <img src={Imaged} className="card-img-top"  />
+          <img src={Imaged} alt="" className="card-img-top"  />
           <div className="card-body">
             <h5 className="card-title"style={{fontFamily:"'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",fontSize:"x-large",textDecoration:"underline"}}>Priciple's Message</h5>
             <p className="card-text"style={{fontFamily:"'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",fontSize:"x-large"}}>
@@ -55,7 +55,7 @@ const About = ()=>{
       </div>
       <div className="col">
         <div className="card">
-          <img src={Imagee} className="card-img-top"   />
+          <img src={Imagee} alt="" className="card-img-top"   />
           <div className="card-body">
             <h5 className="card-title"style={{fontFamily:"'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",fontSize:"x-large",textDecoration:"underline"}}>Infrastructure and Facilities</h5>
             <p className="card-text"style={{fontFamily:"'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",fontSize:"x-large"}}>

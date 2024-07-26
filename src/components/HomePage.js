@@ -18,21 +18,21 @@ import Image4 from "../Images/Logo.png";
       </div>
       <div className="carousel-inner" style={{borderRadius:"10px"}}>
         <div className="carousel-item active">
-          <img src={Image1} className="d-block w-100 " style={{height:"50%"}}/>
+          <img src={Image1} alt="" className="d-block w-100 " style={{height:"50%"}}/>
           <div className="carousel-caption">
             <h5 className="common">Cultural Fest</h5>
             <p className="common"> Embracing Diversity and Creativity</p>
           </div>
         </div>
         <div className="carousel-item">
-          <img src={Image2} className="d-block w-100 " alt="Slide 2"style={{height:"50%"}} />
+          <img src={Image2} alt="" className="d-block w-100 " style={{height:"50%"}} />
           <div className="carousel-caption">
             <h5 className="common">Science Exhibition</h5>
             <p className="common">Showcasing Student Innovations</p>
           </div>
         </div>
         <div className="carousel-item">
-          <img src={Image3} className="d-block w-100 " alt="Slide 3"style={{height:"50%"}} />
+          <img src={Image3} className="d-block w-100 " alt=""style={{height:"50%"}} />
           <div className="carousel-caption">
             <h5 className="common"> Annual Sports Day</h5>
             <p className="common">Celebrating Excellence in Sports</p>
@@ -53,7 +53,7 @@ import Image4 from "../Images/Logo.png";
       <div className="card mb-3 h-100" style={{marginTop:"14px",backgroundColor:"rgb(35, 10, 111)"}} >
         <div className="row g-0 h-100">
           <div className="col-12 col-md-4">
-            <img src={Image4} className="img-fluid rounded-start h-100" alt="Springdale Public School" />
+            <img src={Image4} className="img-fluid rounded-start h-100" alt="" />
           </div>
           <div className="col-12 col-md-8 d-flex align-items-center">
             <div className="card-body">

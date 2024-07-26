@@ -6,7 +6,7 @@ import React from "react";
         <div className="row row-cols-1 row-cols-md-3 g-4 Std-div" style={{marginTop:"20px"}}>
       <div className="col division" > 
         <div className="card h-100">
-          <img src="https://enrollbasis.com/wp-content/uploads/2023/01/Benefits-of-Extra-Curricular-Activities-990x500-1-990x500.jpg" className="card-img-top" alt="Card image" />
+          <img src="https://enrollbasis.com/wp-content/uploads/2023/01/Benefits-of-Extra-Curricular-Activities-990x500-1-990x500.jpg" className="card-img-top" alt="" />
           <div className="card-body">
             <h3 className="card-title" style={{textDecoration:"underline"}}>Life at Springdale:</h3>
             <p className="card-text">
@@ -33,7 +33,7 @@ import React from "react";
       </div>
       <div className="col division">
         <div className="card h-100">
-          <img src="http://mvdy.amritavidyalayam.org/wp-content/uploads/sites/29/2018/06/Untitled-1.jpg" className="card-img-top" alt="Card image" />
+          <img src="http://mvdy.amritavidyalayam.org/wp-content/uploads/sites/29/2018/06/Untitled-1.jpg" alt="" className="card-img-top"  />
           <div className="card-body">
             <h3 className="card-title" style={{textDecoration:"underline"}}>Achievements</h3>
             <p className="card-text"><ul>
@@ -47,7 +47,7 @@ import React from "react";
       </div>
       <div className="col division">
         <div className="card h-100">
-          <img src="https://www.clipartkey.com/mpngs/m/146-1467246_student-council-clip-art-student-council-font.png" className="card-img-top" alt="Card image" />
+          <img src="https://www.clipartkey.com/mpngs/m/146-1467246_student-council-clip-art-student-council-font.png" className="card-img-top" alt="" />
           <div className="card-body">
             <h3 className="card-title"style={{textDecoration:"underline"}}>Student Council</h3>
             <p className="card-text">

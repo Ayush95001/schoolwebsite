@@ -9,7 +9,7 @@ const Academics = () =>{
         <div className="row row-cols-1 row-cols-md-3 g-4 " style={{marginTop:"13px",marginBottom:"6px"}} >
       <div className="col division"> 
         <div className="card h-100">
-          <img src={Image7} className="card-img-top"  />
+          <img src={Image7} alt="" className="card-img-top"  />
           <div className="card-body" >
             <h4 className="card-title"style={{fontFamily:"'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",fontSize:"x-large",textDecoration:"underline"}} >Curriculum</h4>
             <p  className="card-text"style={{fontFamily:"'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",fontSize:"medium"}}><h5>Primary (Grades 1-5) </h5>
@@ -57,7 +57,7 @@ const Academics = () =>{
       </div>
       <div className="col division">
         <div className="card h-100">
-          <img src={Image8} className="card-img-top"  />
+          <img src={Image8} alt="" className="card-img-top"  />
           <hr/>
           <div className="card-body">
             <h4 className="card-title"style={{fontFamily:"'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",fontSize:"x-large",textDecoration:"underline"}} >Teaching Methodologies</h4>
@@ -67,7 +67,7 @@ const Academics = () =>{
       </div>
       <div className="col division">
         <div className="card h-100">
-          <img src={Image9} className="card-img-top"  />
+          <img src={Image9} alt="" className="card-img-top"  />
           <hr/>
           <div className="card-body">
             <h4 className="card-title"style={{fontFamily:"'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif",fontSize:"x-large",textDecoration:"underline"}} >Education Resources</h4>

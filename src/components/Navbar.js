@@ -5,7 +5,7 @@ import React from "react";
         <>
          <nav className="navbar navbar-expand-lg navbar-custom" style={{color:"white"}}>
       <div className="container-fluid">
-        <div className="navbar-brand  name"  style={{color:"white",padding:"5px",margin:"10px",fontSize:"x-large"}}>Springdale Public School</div>
+        <span className="navbar-brand  name"  style={{color:"white",padding:"5px",margin:"10px",fontSize:"x-large"}}>Springdale Public School</span>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" >
           <span className="navbar-toggler-icon" ></span>
         </button>
